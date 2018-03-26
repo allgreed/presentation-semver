@@ -1,0 +1,6 @@
+This file contains image sources that were used in my presentation:
+Of course I do not claim authorship over them.
+
+https://www.python.org/static/opengraph-icon-200x200.png
+https://commons.wikimedia.org/wiki/File:Text-x-python.svg
+https://cdn3.iconfinder.com/data/icons/files-2/512/sign_contract_file-512.png
